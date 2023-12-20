@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\My Uni\Semester 3\Oop\22F-3668, 22F-3676 Flex Management System\main.cpp(405,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  22F-3668, 22F-3676 Flex Management System.vcxproj -> E:\My Uni\Semester 3\Oop\22F-3668, 22F-3676 Flex Management System\x64\Debug\22F-3668, 22F-3676 Flex Management System.exe
